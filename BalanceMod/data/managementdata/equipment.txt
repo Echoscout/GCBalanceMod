@@ -289,6 +289,12 @@ cc_artilleryvehicle
 UNIT
 cc_ioncannon
 UNIT
+cc_lightaerodyne
+UNIT
+cc_attackaerodyne
+UNIT
+cc_fighteraerodyne
+UNIT
 cc_bomberaerodyne
 ESMODELNAME
 vehicle_repair_pack.mdl
@@ -346,6 +352,12 @@ UNIT
 wc_artilleryvehicle
 UNIT
 wc_dronecarrier
+UNIT
+wc_lightaerodyne
+UNIT
+wc_attackaerodyne
+UNIT
+wc_fighteraerodyne
 ESMODELNAME
 vehicle_repair_pack.mdl
 
@@ -371,12 +383,7 @@ UNIT
 wc_artilleryvehicle
 UNIT
 wc_dronecarrier
-UNIT
-wc_lightaerodyne
-UNIT
-wc_attackaerodyne
-UNIT
-wc_fighteraerodyne
+
 ESMODELNAME
 placeholder.mdl
 
@@ -413,12 +420,7 @@ DURATION
 20.0
 SLOTS
 2
-UNIT
-cc_lightaerodyne
-UNIT
-cc_attackaerodyne
-UNIT
-cc_fighteraerodyne
+
 ESMODELNAME
 vehicle_speed_booster.mdl
 
@@ -465,14 +467,6 @@ cc_aavehicle
 UNIT
 cc_artilleryvehicle
 UNIT
-cc_lightaerodyne
-UNIT
-cc_attackaerodyne
-UNIT
-cc_fighteraerodyne
-UNIT
-cc_bomberaerodyne
-UNIT
 cc_ioncannon
 ESMODELNAME
 placeholder.mdl
@@ -493,14 +487,7 @@ SLOTS
 2
 UNIT
 cc_heavytank
-UNIT
-cc_lightaerodyne
-UNIT
-cc_attackaerodyne
-UNIT
-cc_bomberaerodyne
-UNIT
-cc_fighteraerodyne
+
 ESMODELNAME
 placeholder.mdl
 
@@ -551,12 +538,7 @@ UNIT
 wc_beamplatform
 UNIT
 wc_dronecarrier
-UNIT
-wc_lightaerodyne
-UNIT
-wc_attackaerodyne
-UNIT
-wc_fighteraerodyne
+
 ESMODELNAME
 placeholder.mdl
 
